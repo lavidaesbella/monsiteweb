@@ -1,0 +1,162 @@
+ <section>
+				   
+				   <div style='float:left;'>
+                    <div class="card__header">
+                      <img src="./image_mira/imgcool.jpg" alt="">
+					  <div class="card__footer">
+                      <h3>	MONTRE ROLEX 1</h3>
+                      <span>Prix 25000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+                    </div>
+					<div><img src="./image_mira/31.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 2</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+
+					<div><img src="./image_mira/img16.jpg" alt=""></div>
+					<div class="card__footer">
+                      <h3>	MONTRE ROLEX -ECRAN TACTILE</h3>
+                      <span>Prix 16000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/img1.jpg" alt=""></div>
+					<div class="card__footer">
+                      <h3>	MONTRE ROLEX -ECRAN TACTILE</h3>
+                      <span>Prix 19000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/img2.jpg" alt=""></div>
+					<div class="card__footer">
+                      <h3>	MONTRE ROLEX -ECRAN TACTILE</h3>
+                      <span>Prix 19000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/img3.jpg" alt=""></div>
+					<div class="card__footer">
+                      <h3>	MONTRE ROLEX -ECRAN TACTILE</h3>
+                      <span>Prix 18000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/img7.jpg" alt=""></div>
+					<div class="card__footer">
+                      <h3>	MONTRE ROLEX -ECRAN TACTILE</h3>
+                      <span>Prix 20000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					</div>
+					
+					<div><img src="./image_mira/img11.jpg" alt=""></div>
+			
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					
+					<div><img src="./image_mira/35.jpg" alt=""></div>
+			
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/20.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/19.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					
+					<div><img src="./image_mira/24.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					
+					<div><img src="./image_mira/18.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/21.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/23.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX COOL</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/22.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/25.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/26.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/29.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/30.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+					<div><img src="./image_mira/32.jpg" alt=""></div>
+                    <div class="card__footer">
+                      <h3>	MONTRE ROLEX 3</h3>
+                      <span>Prix 12000Fr </span>
+                      <p>Veillez nous conctacter pour une livraison rapide </p>
+                      <a href="#"><button><a href="indexx.html"> CONTACTER NOUS</button></a>
+                    </div>
+				
+					</section>

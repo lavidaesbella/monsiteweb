@@ -1,0 +1,28 @@
+<!-- Hero -->
+	
+    <div class="hero">
+      <div class="glide" id="glide_1">
+        <div class="glide__track" data-glide-el="track">
+          <ul class="glide__slides">
+            <li class="glide__slide">
+              <div class="hero__center">
+                <div class="hero__left">
+                  <span class="">Nouvelle Inspiration 2021</span>
+                  <h1 class="">DE TRES BELLE MARQUE POUR VOUS!</h1>
+                  <p>Tendances - collection ! Faites vous élegant </p>
+				   <p>PRIX  25000FR </p>
+                  <a href="#"><button class="hero__btn"> <a href="https://wa.me/+22893613510">WHATSAPP</button></a>
+				  <a href="#"><button class="hero__btn"> <a href="tel:+22893613510">APPEL</button></a>
+				</div>
+                <div class="hero__right">
+                  <div class="hero__img-container">
+                    <img class="banner_01" src="./dossier_images/12b.jpg" alt="banner2" />
+                  </div>
+                </div>
+              </div>
+            </li>
+	
+     
+
+      
+      </div>
